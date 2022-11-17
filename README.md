@@ -1,5 +1,5 @@
 # Assignment_Lutsenko_JS
-This repository includes 1 file with 3 tasks on JS and 1 README file with logical task
+This repository includes 1 file with 3 tasks on Javascript and 1 README file with a logical task
 
 
 All tasks are solved in one file in the form of sequential scripts.
@@ -7,7 +7,7 @@ The result is output to the console using the console.log function.
 The scripts are written in the Visual Studio Code editor and run with the runtime environment Node.js
 To run all scripts execute this command in the terminal: node lutsenko.js
 
-The bracket sequence task is described here lower.
+The bracket sequence task is described here below.
 
 
 This bracket sequence can be represented in the following form:
