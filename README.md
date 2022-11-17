@@ -11,6 +11,7 @@ The bracket sequence task is described here lower.
 
 
 This bracket sequence can be represented in the following form:
+```
 0 [
 1  (
 2   (
@@ -22,7 +23,7 @@ This bracket sequence can be represented in the following form:
 8   )
 9  ]
 10]
-
+```
 In this form, you can see that the closing bracket on the 9th line does not match the opening parentheses on the 1st line
 There are 4 ways to fix this sequence:
 - change ( on the 1st line to [
