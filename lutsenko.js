@@ -1,11 +1,11 @@
 //Make an algorithm: if the entered number is greater than 7, then output “Привет” 
-function moreSeven(number) {
+function greaterSeven(number) {
     if (number > 7) {
     console.log('Привет'); } 
 };
 
-moreSeven(8);
-moreSeven(6);
+greaterSeven(8);
+greaterSeven(6);
 
 
 //Make an algorithm: if the entered name matches Вячеслав, then output “Привет, Вячеслав”, if not, then output “Нет такого имени”
